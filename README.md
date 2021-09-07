@@ -1,6 +1,6 @@
 # Leandro: ableton-style audio synthesis software
 
-Leandro is a piece of software that explores different methods of audio synthesis and different audio filters, written entirely in C++, using portaudio and Qt.
+Leandro is a piece of software that explores different methods of audio synthesis and different audio filters, written entirely in C++, using [portaudio](http://portaudio.com/) and [Qt](http://qt.io/).
 
 It synthesizes notes from MIDI files using its own instruments and audio filters. After importing a .MIDI file, the user can choose from the different synthesizing methods and combine any number of filters and the melody will be generated accordingly.
 
